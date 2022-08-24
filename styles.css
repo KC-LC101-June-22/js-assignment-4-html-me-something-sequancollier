@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+*{
+    background-color: #06245c;
+    font-family: Georgia
+}
+#mainHeading{
+    color:red;
+    text-align: center;
+   
+}
+#LT{
+    float: right; 
+    height: 250px; 
+    width:200px
+}
+#SB21{
+    float: left; 
+    height: 250px; 
+    width:200px
+}
+#RB{
+    float: right; 
+    height: 250px; 
+    width:200px
+}
+#tyree{
+    float: right; 
+    height: 250px; 
+    width:200px
+}
+#Eli{
+    float: right; 
+    height: 250px; 
+    width:200px
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin:20px
+}
+body{
+    margin:8px
+}
+p {
+    color: red;
+    text-align: center;
+    padding-bottom: 100px;
+  }
+
+  .funParagraph{
+      color:green;
+      text-align: center;
+      padding-bottom: 100px;
+  }
+
+  #trophies{
+      padding-left:600px ;
+  }
+
+  
